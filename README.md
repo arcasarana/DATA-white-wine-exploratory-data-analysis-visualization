@@ -1,2 +1,2 @@
-# exploratory-data-analysis-white-wine
-Using R Studio for exploratory data analysis on a white wine dataset, this project looks at wine quality, commonly-known wine variables (e.g. percent alcohol), and lesser-known variables related to flavor and taste.
+# DATA-white-wine-exploratory-data-analysis-visualization
+Using R  for exploratory data analysis on a white wine dataset, this project looks at relationshipsin one variable to multiple variables including wine quality, familiar wine variables (e.g. percent alcohol), and lesser-known variables related to flavor and taste.  I explore the selected dataset for distributions, outliers, and anomalies using explanatory visualizations.
